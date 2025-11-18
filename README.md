@@ -1,7 +1,6 @@
 # Names
 Espen Lunden
-Tanner Nemeth
-
+Giorgio Chaccour
 
 # Top Five
 
